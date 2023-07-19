@@ -26,6 +26,16 @@ To use this web application, you need a modern web browser.
 * The response from the server is then processed, and the data is displayed in the HTML table.
 
 
+`Before Getting Data`
+
+![Screenshot (572)](https://github.com/manoj7654/H2SKILL1/assets/107467981/250d44d2-b221-4103-9523-1d9aa06ad1bf)
+
+
+`After Getting Data`
+
+![Screenshot (573)](https://github.com/manoj7654/H2SKILL1/assets/107467981/8fb45cb3-5272-4f4f-8a0f-72129036e1c9)
+
+
 ### Deployment
 
 [Front-End](https://gleeful-donut-747a48.netlify.app/)
