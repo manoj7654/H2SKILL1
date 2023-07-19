@@ -38,4 +38,4 @@ To use this web application, you need a modern web browser.
 
 ### Deployment
 
-[Front-End](superlative-concha-cbbe8f.netlify.app)
+[Front-End](superlative-concha-cbbe8f.netlify.app/)
